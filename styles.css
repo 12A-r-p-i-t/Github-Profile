@@ -1,0 +1,22 @@
+html, body {
+    font-family: 'Lato', sans-serif;
+}
+
+.flex-container {
+    display: flex; 
+    flex-direction: column; 
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.check {
+    /* width: auto; */
+    margin-left: 15%;
+    margin-right: 15%;
+    width: 70%;
+    margin-top: 3%;
+}
